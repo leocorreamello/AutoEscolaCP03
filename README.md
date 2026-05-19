@@ -13,7 +13,7 @@ Leonardo Correa de Mello - RM555573
 ## Como executar
 
 ```powershell
-Push-Location "C:\Users\Leonardo\Desktop\Codes\Winery\Consumer\AutoEscolaCP03\Checkpoint03"
+Push-Location "C:\Users\...\AutoEscolaCP03\Checkpoint03"
 .\\mvnw spring-boot:run
 Pop-Location
 ```
